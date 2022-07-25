@@ -7,4 +7,5 @@ MY TO-DO LIST
 5. Learn NodeJS
 6. Learn MongoDB
 7. Build a Full Stack Web Development Project
-8. Apply for Internship
+8. Apply for Summer Internship
+9. Prepare for Placement Season
