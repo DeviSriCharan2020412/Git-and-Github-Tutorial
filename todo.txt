@@ -1,0 +1,10 @@
+MY TO-DO LIST
+
+1. Solve DSA Problems
+2. Learn Javascript
+3. Learn ReactJS
+4. Learn ExpressJS
+5. Learn NodeJS
+6. Learn MongoDB
+7. Build a Full Stack Web Development Project
+8. Apply for Internship
